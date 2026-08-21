@@ -1,0 +1,48 @@
+python/sglang/srt/environ.py
+  s_fa18b865b6980c::t_5a91615f0bdc4b 849-890
+python/sglang/srt/managers/scheduler.py
+  s_fa18b865b6980c::t_9fd94cad12b8d8 2342-2347,2351-2365,2376-2384
+python/sglang/srt/model_executor/forward_batch_info.py
+  s_fa18b865b6980c::t_8d6efd354ba337 36,43-44
+  s_fa18b865b6980c::t_b44303f9f6ce9c 793,1248-1273,1283-1323
+  s_fa18b865b6980c::t_933a179cea3331 699-712,714-727
+  s_fa18b865b6980c::t_a94daf45081d4f 928-937
+  s_fa18b865b6980c::t_2a50d3e35cb1dc 730-766,777-781
+  s_fa18b865b6980c::t_4f64241cf9cd28 767-776,782-792,938-941,1324-1350
+python/sglang/srt/managers/schedule_batch.py
+  s_fa18b865b6980c::t_50ae005cb821f4 610
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "bafca46cefa6486d8aa08eb1cfd7ffd70848ebdc",
+  "prompts": {},
+  "humans": {
+    "h_b23a6a8439c0dd": {
+      "author": "unknown"
+    }
+  },
+  "sessions": {
+    "s_fa18b865b6980c": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a86f0904fa66635e4406842",
+        "model": "glm-5.2"
+      },
+      "human_author": "unknown",
+      "custom_attributes": {
+        "tool_type": "builtin",
+        "dedupe_key": "6a86f0904fa66635e4406842:6a87e27d4fa66635e4406c8f:afterEdit:ea8e953e",
+        "tool_use_id": "6a87e27d4fa66635e4406c8f",
+        "session_id": "6a86f0904fa66635e4406842",
+        "runtime_client": "trae-tob-git-ai",
+        "tool_id": "icube:applyChatSnapshotPatch",
+        "operation_id": "6a87e27d4fa66635e4406c8f",
+        "client_type": "ide",
+        "external_session_id": "6a86f0904fa66635e4406842",
+        "source_scene": "agent",
+        "edit_kind": "file_edit"
+      }
+    }
+  }
+}
