@@ -1,0 +1,37 @@
+python/sglang/srt/environ.py
+  s_fa18b865b6980c::t_9b3f5899c4b128 849,851,853,855,857,859
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "91acffe7ae4817d1a3ac5babea9e428dda3bc780",
+  "prompts": {},
+  "humans": {
+    "h_b23a6a8439c0dd": {
+      "author": "unknown"
+    }
+  },
+  "sessions": {
+    "s_fa18b865b6980c": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a86f0904fa66635e4406842",
+        "model": "glm-5.2"
+      },
+      "human_author": "unknown",
+      "custom_attributes": {
+        "external_session_id": "6a86f0904fa66635e4406842",
+        "tool_use_id": "6a88082d4fa66635e4406d9b",
+        "tool_type": "builtin",
+        "operation_id": "6a88082d4fa66635e4406d9b",
+        "session_id": "6a86f0904fa66635e4406842",
+        "source_scene": "agent",
+        "client_type": "ide",
+        "edit_kind": "file_edit",
+        "runtime_client": "trae-tob-git-ai",
+        "dedupe_key": "6a86f0904fa66635e4406842:6a88082d4fa66635e4406d9b:afterEdit:93c32e3f",
+        "tool_id": "icube:applyChatSnapshotPatch"
+      }
+    }
+  }
+}
