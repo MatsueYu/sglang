@@ -1,0 +1,50 @@
+python/sglang/srt/models/qwen2_moe.py
+  s_fa18b865b6980c::t_18e050d4d7bb63 522-528
+python/sglang/srt/hardware_backend/npu/attention/ascend_gdn_backend.py
+  h_54944f723323e4 8-10,12,151-162,166-174,179,185
+python/sglang/srt/models/qwen3_5.py
+  s_fa18b865b6980c::t_b2d5c9e2750ecf 33-34,204-208,684-685,1223-1234
+python/sglang/srt/model_executor/forward_batch_info.py
+  s_fa18b865b6980c::t_1ef5241ed185a1 673,696-709,711-724,727-790,925-938,941,1245-1270,1280-1330
+python/sglang/srt/managers/schedule_batch.py
+  s_fa18b865b6980c::t_5fb0fa8d273cce 610
+python/sglang/srt/environ.py
+  s_fa18b865b6980c::t_eaa2ec81d88448 849-857
+  s_fa18b865b6980c::t_4c876cef938911 858-859
+python/sglang/srt/managers/scheduler.py
+  s_fa18b865b6980c::t_c35f5eec06c0e0 2342-2347,2351-2365,2376-2384
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "cde18c9bdf7aa9f29a6e4a6ecfa48aed1ada1e4b",
+  "prompts": {},
+  "humans": {
+    "h_54944f723323e4": {
+      "author": "MatsueYu <hmzhu1999@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_fa18b865b6980c": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a86f0904fa66635e4406842",
+        "model": "glm-5.3"
+      },
+      "human_author": null,
+      "custom_attributes": {
+        "tool_use_id": "6a8baffd4fa66635e4406f4a",
+        "runtime_client": "trae-tob-git-ai",
+        "session_id": "6a86f0904fa66635e4406842",
+        "edit_kind": "file_edit",
+        "dedupe_key": "6a86f0904fa66635e4406842:6a8baffd4fa66635e4406f4a:afterEdit:93c32e3f",
+        "operation_id": "6a8baffd4fa66635e4406f4a",
+        "client_type": "ide",
+        "tool_id": "icube:applyChatSnapshotPatch",
+        "tool_type": "builtin",
+        "external_session_id": "6a86f0904fa66635e4406842",
+        "source_scene": "agent"
+      }
+    }
+  }
+}
